@@ -11,7 +11,6 @@ Este repositório é dedicado a compartilhar exemplos de código, projetos prát
 
 Sinta-se à vontade para explorar os projetos, contribuir com suas próprias ideias e abrir problemas para qualquer dúvida ou sugestão que possa ter. Juntos, podemos continuar a fortalecer e expandir a comunidade Java.
 
-Divirta-se codificando!
 
-[Seu Nome]
+Iago Gomes.
 
